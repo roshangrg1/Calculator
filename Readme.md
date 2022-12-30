@@ -22,9 +22,10 @@ I'm a full stack Javascript developer...
 
 ## Screenshots
 
-![App Screenshot](./Image/Basic_Counter.png)
+![App Screenshot](./Image/Screenshot%20(238).png)
 
 
 ### Concept used in this project.
 - operator
-- if else
+- additional assignment
+- dom
